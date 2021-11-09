@@ -25,7 +25,7 @@ function App() {
           </tr>
         </tbody>
       </table>
-      <p>ahmad nassar</p>
+      <p>ahmad ali</p>
     </div>
   );
 }
